@@ -12,13 +12,19 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Experience**
 
-* BA/BS degree in Industrial and Systems Engineering
+* Banregio Bank
 
-* 3 years of experience managing technical programs.
+  * 3 years of experience managing technical programs.
 
-* 3 years of industry experience with technical subjects and emerging technologies in Machine Learning or related technical fields, and their relevance to the marketplace.
+  * 3 years of industry experience with technical subjects and emerging technologies in Machine Learning or related technical fields, and their relevance to the marketplace.
 
-* 2 years of experience shipping mobile software for Android or iOS.
+* Co-Founder Lean-101.com Startup
+
+  * Currently we are working in the phase for discovery our business model.
+
+  * I'm coding web app front-end for the marketplace using a new stack of technologies like Google Angular 4/React components and a React-Native App prototype.
+
+  * I'm coding a Back-End with GoLang, Kafka, OpenShift Origin/Kubernetes, Istio.io, NGINX/netty, Cassandra, Redis and Postgresql.
 
 **Responsibilities**
 
@@ -32,7 +38,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * B.Eng. degree in Industrial and Systems Engineering
 
-* Data Processing Technology/Technician  
+* Data Processing Technology/Technician
 
 **Preferred Qualifications**
 
@@ -42,21 +48,18 @@ I'm a professional passionate about applying technologies that make a real impac
 * Excellent organizational skills with ability to develop detailed project plans and see them through to completion.
 * Excellent oral/written communication and interpersonal skills, with the ability to engage in highly technical discussions.
 
-**Skills   
-**Programming Languages
+**Skills     
+**Programming Languages/Frameworks
 
-* Experience with Google mobile APIs and services \(e.g. Google Play services\).
-* Expert at the practical application of program management principles and tools.
-* Track record of quickly earning credibility based on your knowledge, flexibility and amazing accomplishments.
-* Excellent organizational skills with ability to develop detailed project plans and see them through to completion.
-* Excellent oral/written communication and interpersonal skills, with the ability to engage in highly technical discussions.
+* Java, Java Spring, Android
+* Go
+* JavaScript, Angular, React/React-Native and Nodejs.
+* Nodejs
 
 Spoken Languages
 
 * Fluent in Portuguese and Spanish languages.
 * Basic in English language.
-
-
 
 **Description**
 
@@ -104,6 +107,7 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Be responsible for planning for the budget, resources and tools to deliver against that roadmap.
 
 * Drive all aspects of the development including requirements definition, design, implementation, unit testing, and integration. Oversee detailed designs, implementation, and test plan reviews to ensure high quality deliverables.
+
 * Work closely with stakeholders to provide status, iterative releases, and make design decision throughout the development.
 * Plan, manage and prioritize implementation tasks for features, projects, and releases.
 * Monitor quality of releases and interim development, triage and assign issues.
@@ -188,6 +192,7 @@ Minimum qualifications:
 * Demonstrated knowledge of networking, and cloud-based delivery models.
 
 * Ability to effectively communicate complex technical and business concepts to a range of audiences.
+
 * Excellent verbal and written communications skills as well as the ability to work effectively across internal and external organizations.
 
 ## Job description
@@ -221,6 +226,7 @@ Minimum qualifications:
 * Experience in the business technology market, and expertise working closely with sales and marketing teams in cloud computing or related technical fields
 
 * Deep understanding of the current state of infrastructure automation, continuous integration/deployment, SQL/NoSQL, security, networking, and cloud-based delivery models
+
 * Can communicate complex technical concepts in an approachable way for broad audiences, empowering them with memorable and useful information
 
 
