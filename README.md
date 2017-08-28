@@ -93,10 +93,46 @@ Minimum qualifications:
 
 **Responsibilities**
 
-
-
 * Design, develop, test, deploy, maintain and improve software.
 * Manage individual project priorities, deadlines and deliverables.
+* **Qualifications**
+
+Minimum qualifications:
+
+* BS degree in Computer Science, similar technical field of study or equivalent practical experience.
+* Software development experience in one or more general purpose programming languages.
+* Experience working with two or more from the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development.
+* Ability to speak and write in English fluently and idiomatically.
+* **Preferred Qualifications**
+
+* Master’s, PhD degree, further education or experience in engineering, computer science or other technical related field.
+* 4 years of relevant work experience in software development.
+* Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C\#, Objective C, Python, JavaScript, or Go.
+* Interest and ability to learn other coding languages as needed.
+
+## Job description
+
+ The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+
+
+
+In this role within the Cloud Platform Business Unit at Google, you will use your leadership skills and knowledge of product management, industries, software and cloud computing to design solutions for a variety of issues. You will help drive awareness of our solutions at leading industry conferences and Google events. Your enthusiasm, technical and business depth, and excellent presentation skills will help decision makers understand the benefits of Google Cloud Platform to drive growth and customer success.
+
+
+
+Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life.
+
+
+
+**Responsibilities**
+
+
+
+* Provide expertise and leadership in Solutions Architecture in the infrastructure and applications space.
+* Define the business case for solutions. Assist in the design of solutions in order to help with prototyping and development.
+* Demonstrate thought leadership in cloud computing across multiple channels and become a trusted advisor to decision makers.
+* Provide customer and market feedback to the product and engineering teams, and influence product direction.
+* Attend various meetings, technical reviews and onsite delivery activities.
 * 
 **Qualifications**
 
@@ -106,19 +142,20 @@ Minimum qualifications:
 
 
 
-* BS degree in Computer Science, similar technical field of study or equivalent practical experience.
-* Software development experience in one or more general purpose programming languages.
-* Experience working with two or more from the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development.
-* Ability to speak and write in English fluently and idiomatically.
+* Master's degree in Computer Science or equivalent practical experience.
+* 5 years of experience as a Solutions Architect or Developer.
+* Ability to travel up to 30% of the time.
 * 
 **Preferred Qualifications**
 
 
 
-* Master’s, PhD degree, further education or experience in engineering, computer science or other technical related field.
-* 4 years of relevant work experience in software development.
-* Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C\#, Objective C, Python, JavaScript, or Go.
-* Interest and ability to learn other coding languages as needed.
+* Experience in all aspects of cloud computing \(infrastructure, storage, platforms and data\), as well as cloud market and competitive dynamics.
+* Experience in the business technology market and expertise in working closely with sales and marketing teams in cloud computing or related technical fields.
+* Demonstrated knowledge of the current infrastructure automation, continuous integration/deployment, SQL/NoSQL/NewSQL.
+* Demonstrated knowledge of networking, and cloud-based delivery models.
+* Ability to effectively communicate complex technical and business concepts to a range of audiences.
+* Excellent verbal and written communications skills as well as the ability to work effectively across internal and external organizations.
 
 
 
