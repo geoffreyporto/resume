@@ -74,22 +74,22 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Design and organize documentation sets for new APIs and developer products.
 * Edit, clarify, and proofread documents written by others, and coach non-writers on ways to improve their writing skills.
 * Manage complex documentation projects.
-* * Supplement developer documentation with relevant sample code.
-
+* Supplement developer documentation with relevant sample code.
 * Lead a team of software engineers. Plan tasks, hold code and design reviews.
 
 * Gather requirements, with the larger team, to define high level architecture, collaborate with senior developers across the team on design. Review and approve the detailed designs.
+
 * Be responsible for planning for the budget, resources and tools to deliver against that roadmap.
 * Drive all aspects of the development including requirements definition, design, implementation, unit testing, and integration. Oversee detailed designs, implementation, and test plan reviews to ensure high quality deliverables.
 * Work closely with stakeholders to provide status, iterative releases, and make design decision throughout the development.
 * Plan, manage and prioritize implementation tasks for features, projects, and releases.
-* Monitor quality of releases and interim development, triage and assign issues. 
+* Monitor quality of releases and interim development, triage and assign issues.
 
 * Coordinate fixes for release branches and publish releases.
 
 * Monitor incoming bugs and code changes to identify quality issues and trends.
 
-* Develop tools and processes to improve software engineering productivity. 
+* Develop tools and processes to improve software engineering productivity.
 
 * Coordinate launch feature reviews and tracking across multiple teams.
 
@@ -161,6 +161,7 @@ Minimum qualifications:
 * Experience in the business technology market and expertise in working closely with sales and marketing teams in cloud computing or related technical fields.
 
 * Demonstrated knowledge of the current infrastructure automation, continuous integration/deployment, SQL/NoSQL/NewSQL.
+
 * Demonstrated knowledge of networking, and cloud-based delivery models.
 * Ability to effectively communicate complex technical and business concepts to a range of audiences.
 * Excellent verbal and written communications skills as well as the ability to work effectively across internal and external organizations.
@@ -192,6 +193,7 @@ Minimum qualifications:
 * MS degree in Computer Science or related engineering field, or equivalent work experience in a software/systems engineering position
 
 * 5 years of direct experience working with a variety of technology systems, designing solutions, or developing business applications.
+
 * Experience in the business technology market, and expertise working closely with sales and marketing teams in cloud computing or related technical fields
 * Deep understanding of the current state of infrastructure automation, continuous integration/deployment, SQL/NoSQL, security, networking, and cloud-based delivery models
 * Can communicate complex technical concepts in an approachable way for broad audiences, empowering them with memorable and useful information
