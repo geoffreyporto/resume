@@ -91,5 +91,34 @@ Minimum qualifications:
 * Ability to manage multiple competing priorities in a fast-paced, constantly changing environment.
 * Software engineer with 8+ years of experience designing, developing and maintaining mission-critical systems which support operations of top world-class companies.
 
+**Responsibilities**
+
+
+
+* Design, develop, test, deploy, maintain and improve software.
+* Manage individual project priorities, deadlines and deliverables.
+* 
+**Qualifications**
+
+
+
+Minimum qualifications:
+
+
+
+* BS degree in Computer Science, similar technical field of study or equivalent practical experience.
+* Software development experience in one or more general purpose programming languages.
+* Experience working with two or more from the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development.
+* Ability to speak and write in English fluently and idiomatically.
+* 
+**Preferred Qualifications**
+
+
+
+* Master’s, PhD degree, further education or experience in engineering, computer science or other technical related field.
+* 4 years of relevant work experience in software development.
+* Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C\#, Objective C, Python, JavaScript, or Go.
+* Interest and ability to learn other coding languages as needed.
+
 
 
