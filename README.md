@@ -28,6 +28,12 @@ I'm a professional passionate about applying technologies that make a real impac
 * Manage communication of progress/status within the core team; escalate issues as necessary.
 * Identify and solve cross-functional and inter-team issues quickly
 
+**Education**
+
+* B.Eng. degree in Industrial and Systems Engineering
+
+* Data Processing Technology/Technician  
+
 **Preferred Qualifications**
 
 * Experience with Google mobile APIs and services \(e.g. Google Play services\).
@@ -35,6 +41,22 @@ I'm a professional passionate about applying technologies that make a real impac
 * Track record of quickly earning credibility based on your knowledge, flexibility and amazing accomplishments.
 * Excellent organizational skills with ability to develop detailed project plans and see them through to completion.
 * Excellent oral/written communication and interpersonal skills, with the ability to engage in highly technical discussions.
+
+**Skills   
+**Programming Languages
+
+* Experience with Google mobile APIs and services \(e.g. Google Play services\).
+* Expert at the practical application of program management principles and tools.
+* Track record of quickly earning credibility based on your knowledge, flexibility and amazing accomplishments.
+* Excellent organizational skills with ability to develop detailed project plans and see them through to completion.
+* Excellent oral/written communication and interpersonal skills, with the ability to engage in highly technical discussions.
+
+Spoken Languages
+
+* Fluent in Portuguese and Spanish languages.
+* Basic in English language.
+
+
 
 **Description**
 
@@ -80,6 +102,7 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Gather requirements, with the larger team, to define high level architecture, collaborate with senior developers across the team on design. Review and approve the detailed designs.
 
 * Be responsible for planning for the budget, resources and tools to deliver against that roadmap.
+
 * Drive all aspects of the development including requirements definition, design, implementation, unit testing, and integration. Oversee detailed designs, implementation, and test plan reviews to ensure high quality deliverables.
 * Work closely with stakeholders to provide status, iterative releases, and make design decision throughout the development.
 * Plan, manage and prioritize implementation tasks for features, projects, and releases.
@@ -163,6 +186,7 @@ Minimum qualifications:
 * Demonstrated knowledge of the current infrastructure automation, continuous integration/deployment, SQL/NoSQL/NewSQL.
 
 * Demonstrated knowledge of networking, and cloud-based delivery models.
+
 * Ability to effectively communicate complex technical and business concepts to a range of audiences.
 * Excellent verbal and written communications skills as well as the ability to work effectively across internal and external organizations.
 
@@ -195,6 +219,7 @@ Minimum qualifications:
 * 5 years of direct experience working with a variety of technology systems, designing solutions, or developing business applications.
 
 * Experience in the business technology market, and expertise working closely with sales and marketing teams in cloud computing or related technical fields
+
 * Deep understanding of the current state of infrastructure automation, continuous integration/deployment, SQL/NoSQL, security, networking, and cloud-based delivery models
 * Can communicate complex technical concepts in an approachable way for broad audiences, empowering them with memorable and useful information
 
