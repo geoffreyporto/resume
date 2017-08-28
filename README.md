@@ -12,19 +12,55 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Experience**
 
-* Banregio Bank
+* **Banregio Bank \(2016-Present\)**
 
-  * 3 years of experience managing technical programs.
+  * Lead a team of software architects experts
 
-  * 3 years of industry experience with technical subjects and emerging technologies in Machine Learning or related technical fields, and their relevance to the marketplace.
+  * Defined and designed new solutions and software architectures
+
+  * Provided stack of new technologies of Distributed Application Architecture like Microservices and Event-Driven Architecture with Cloud Computing under Platform as a Service \(PaaS\)
+
+  * Investigate new trends technological for financial services 
+
+  * Builds proof-of-concepts for adopt new technologies like Chatbots \(Wit.ai\), NLP \(Api.ai\) and Machine Learning algorithms \(Amazon AWS\) for start our mvp projects.
+
+  * Builds proff-of-concepts for adopt new platforms like Goole Kubernets, Dockers and Microservices Archivtetc.
+
+  * Support to the engineering and business team in evaluation and adoption of new technologies.
+
+• Technical knowledgement:
+
+- Design, Architecture and Application Development Web / Mobile: Java, Nodejs, Ruby \(Ruby on Rails\), Python and Scala.
+
+- Beginner in Data Science, Blockchain and Artificial Intelligence with statistics models and regresion.
+
+- Deployment Applications: Heroku, Google App Engine and Amazon AWS/OpsWorks
+
+- noSQL Databases:  Cassandra, Neo4j, MongoDB and Redis,
+
+- Back-End: Java, Python, NodeJS, Scala and Go
+
+- Front-End Web Application: Html5, Angularjs and ReactJs.
+
+
+
+• I have a lot passion to learn new technologies to generate value for my customers.
+
+
+
+•Research Profile: https://www.researchgate.net/profile/Geoffrey\_Porto
+
+
 
 * Co-Founder Lean-101.com Startup
 
   * Currently we are working in the phase for discovery our business model.
 
-  * I'm coding web app front-end for the marketplace using a new stack of technologies like Google Angular 4/React components and a React-Native App prototype.
+  * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components. 
 
-  * I'm coding a Back-End with GoLang, Kafka, OpenShift Origin/Kubernetes, Istio.io, NGINX/netty, Cassandra, Redis and Postgresql.
+  * I'm coding a React-Native App prototype.
+
+  * I'm coding a Core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql.
 
 **Responsibilities**
 
@@ -48,7 +84,7 @@ I'm a professional passionate about applying technologies that make a real impac
 * Excellent organizational skills with ability to develop detailed project plans and see them through to completion.
 * Excellent oral/written communication and interpersonal skills, with the ability to engage in highly technical discussions.
 
-**Skills     
+**Skills       
 **Programming Languages/Frameworks
 
 * Java, Java Spring, Android
@@ -60,6 +96,10 @@ Spoken Languages
 
 * Fluent in Portuguese and Spanish languages.
 * Basic in English language.
+
+Software Engieering
+
+* Design, Architecture and Application Development Web / Mobile: Java, Nodejs, Ruby \(Ruby on Rails\), Python and Scala.
 
 **Description**
 
@@ -109,6 +149,7 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Drive all aspects of the development including requirements definition, design, implementation, unit testing, and integration. Oversee detailed designs, implementation, and test plan reviews to ensure high quality deliverables.
 
 * Work closely with stakeholders to provide status, iterative releases, and make design decision throughout the development.
+
 * Plan, manage and prioritize implementation tasks for features, projects, and releases.
 * Monitor quality of releases and interim development, triage and assign issues.
 
