@@ -89,6 +89,7 @@ Minimum qualifications:
 * 4 years of relevant work experience, including experience researching and writing excellent documentation for developers \(APIs, SDKs, web technologies\).
 * Proficiency with HTML and CSS; proficiency in a UNIX environment.
 * Ability to manage multiple competing priorities in a fast-paced, constantly changing environment.
+* Software engineer with 8+ years of experience designing, developing and maintaining mission-critical systems which support operations of top world-class companies.
 
 
 
