@@ -76,6 +76,12 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Manage complex documentation projects.
 * Supplement developer documentation with relevant sample code.
 
+* Lead a team of software engineers. Plan tasks, hold code and design reviews.
+* Gather requirements, with the larger team, to define high level architecture, collaborate with senior developers across the team on design. Review and approve the detailed designs.
+* Be responsible for planning for the budget, resources and tools to deliver against that roadmap.
+* Drive all aspects of the development including requirements definition, design, implementation, unit testing, and integration. Oversee detailed designs, implementation, and test plan reviews to ensure high quality deliverables.
+* Work closely with stakeholders to provide status, iterative releases, and make design decision throughout the development.
+
 **Qualifications**
 
 Minimum qualifications:
@@ -108,6 +114,7 @@ Minimum qualifications:
 * Master’s, PhD degree, further education or experience in engineering, computer science or other technical related field.
 
 * 4 years of relevant work experience in software development.
+
 * Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C\#, Objective C, Python, JavaScript, or Go.
 * Interest and ability to learn other coding languages as needed.
 
@@ -136,6 +143,7 @@ Minimum qualifications:
 * **Preferred Qualifications**
 
 * Experience in all aspects of cloud computing \(infrastructure, storage, platforms and data\), as well as cloud market and competitive dynamics.
+
 * Experience in the business technology market and expertise in working closely with sales and marketing teams in cloud computing or related technical fields.
 * Demonstrated knowledge of the current infrastructure automation, continuous integration/deployment, SQL/NoSQL/NewSQL.
 * Demonstrated knowledge of networking, and cloud-based delivery models.
@@ -144,43 +152,27 @@ Minimum qualifications:
 
 ## Job description
 
- The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
-
-
+The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
 
 You’re a Solutions Architect with broad and deep technical knowledge across industries, best practices, and products. You will use your expertise and leadership skills around cloud computing to design scalable customer solutions on Google Cloud and take them to market. You will champion our platform by presenting these solutions at industry conferences and Google events. Your enthusiasm, technical and business depth, and excellent speaking skills will help decision makers understand and choose the benefits of Google Cloud for their business to help drive growth and success.
 
-
-
 Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what’s next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life.
 
-
-
 **Responsibilities**
-
-
 
 * Provide subject matter expertise around technical infrastructure and applications.
 * Define the business case for solutions, design the solution to help prototype and develop the customer’s new environment, and guide the solution through launch to market.
 * Demonstrate thought leadership in cloud computing across multiple channels and become a trusted advisor to decision makers.
 * Provide customer and market feedback to the product and engineering teams and help shape product direction.
 * Travel regularly \(up to 30%, although we also frequently use video conferencing\) in-region for meetings, technical reviews, and onsite delivery activities.
-* 
-**Qualifications**
-
-
+* **Qualifications**
 
 Minimum qualifications:
-
-
 
 * BA/BS degree in Computer Science or related software engineering field, or equivalent practical experience.
 * 4 years of experience in all aspects of cloud computing \(infrastructure, storage, platforms and data\), as well as cloud market, competitive dynamics and customer buying behavior.
 * Experience with the cloud market, industry analysis and customer buying behavior.
-* 
-**Preferred Qualifications**
-
-
+* **Preferred Qualifications**
 
 * MS degree in Computer Science or related engineering field, or equivalent work experience in a software/systems engineering position
 * 5 years of direct experience working with a variety of technology systems, designing solutions, or developing business applications.
