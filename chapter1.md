@@ -14,10 +14,10 @@ As a Software Engineer in our Core Services team, you will be responsible for bu
 * Write clear, maintainable, and performant code
 * Projects include real time data synchronization, identity management, large-scale data processing frameworks, and service endpoints for web, embedded, and mobile clients
 * Diagnose problems which can only arise in a complex distributed environment
-* 
-**Minimum Qualifications**
+* **Minimum Qualifications**
 
 * Bachelor’s degree in Computer Science, Mathematics, Statistics or related field; or equivalent practical experience
+
 * 4+ years of software development experience
 * 4+ years of experience working in Java and/or Scala
 
