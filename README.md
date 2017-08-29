@@ -64,13 +64,13 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Co-Founder at Lean-101.com Startup \(2016-present\)**
 
-  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality. see here: https://www.lean-101.com
+  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality. 
 
   * Working in the initial phase for discovery our business model canvas \(Design Thinking\).
 
-  * Launched the web portal.
+  * Launched the web portal [https://www.lean-101.com](https://www.lean-101.com "Portal web de Lean-101")
 
-  * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components
+  * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components.
 
   * I'm coding a React-Native App prototype.
 
