@@ -71,7 +71,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * I'm coding a React-Native App prototype.
 
-  * I'm coding a Core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql
+  * I'm coding a core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql
 
 **Skills**
 
