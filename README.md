@@ -37,7 +37,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Builds proof-of-concepts for adopt new technologies like Chatbots \(Wit.ai\), NLP \(Api.ai\) and Machine Learning algorithms \(Amazon AWS\) for start our MVP projects.
 
-  * Builds proff-of-concepts for adopt new platforms like Goole Kubernets, Dockers and Microservices Archivtetc.
+  * Designed training programs for developers of Distributed Applications in Microservices support for Amazon AWS and RedHat teams.
+
+  * Builds proff-of-concepts for adopt new platforms like Goole Kubernets, Dockers and Microservices Architecture.
 
   * Support to the engineering and business team in evaluation and adoption of new technologies.
 
