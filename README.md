@@ -99,11 +99,11 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Beginner in Blockchain and Machine/Deep Learning: R, Spark, TensorFlow and Hyperledger.
 
-  * Deployment Applications: Heroku and Amazon AWS.
+  * PaaS Deployment Applications: Heroku and Amazon AWS.
 
   * noSQL Databases:  Cassandra, Neo4j, MongoDB and Redis.
 
-  * Operating Systems: Linux-based systems
+  * Operating Systems: MacOSX and Linux-based systems
 
 * **Spoken Languages**
 
