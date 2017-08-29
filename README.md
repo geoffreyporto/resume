@@ -64,7 +64,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Co-Founder at Lean-101.com Startup \(2016-present\)**
 
-  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality.
+  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality. see here: https://www.lean-101.com
 
   * Working in the initial phase for discovery our business model canvas \(Design Thinking\).
 
