@@ -82,10 +82,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Maths and Statistical**
 
-  * Linear Regresion
-  * Algebrar Linear
+  * Algebra Linear
   * Calculus
-  * Binary Logistic Regression
+  * Lienar Regression/Binary Logistic Regression
 
 * **Programming Languages and Web Frameworks**
 
