@@ -98,7 +98,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Design, Architecture and Application Development Web: Microservices and Event-Driven Applications Architecture.
 
-  * Beginner in Blockchain and Machine/Deep Learning: R, Spark, TensorFlow and Hyperledger.
+  * Beginner in Blockchain: Hyperledger Platform.
+
+  * Beginner in Machine/Deep Learning: R, Spark and TensorFlow.
 
   * PaaS Deployment Applications: Heroku and Amazon AWS.
 
