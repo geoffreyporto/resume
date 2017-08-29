@@ -32,7 +32,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Investigate new trends technological for financial services
 
-  * Builds proof-of-concepts for adopt new technologies like Chatbots \(Wit.ai\), NLP \(Api.ai\) and Machine Learning algorithms \(Amazon AWS\) for start our mvp projects.
+  * Builds proof-of-concepts for adopt new technologies like Chatbots \(Wit.ai\), NLP \(Api.ai\) and Machine Learning algorithms \(Amazon AWS\) for start our MVP projects.
 
   * Builds proff-of-concepts for adopt new platforms like Goole Kubernets, Dockers and Microservices Archivtetc.
 
