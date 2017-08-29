@@ -46,7 +46,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Lead a team of software developers for MVP projects.
 
-  * Launched a new platform called Claro Apps Android Marketplace for America Movil. Claro Apps has the first android market place of LatAm with payment via Cell phone balance \(non-credit card\) see here. [http://www.claroapps.com/](http://www.claroapps.com/)
+  * Launched a new platform called Claro Apps Android Marketplace for America Movil. Claro Apps has the first android market place of LatAm with payment via Cell phone balance \(non-credit card\). see here. [http://www.claroapps.com/](http://www.claroapps.com/)
+
+  * Launched a new platform called Yappstars that connect the fan with their celebrity. see here: [http://yappstars.com/](http://yappstars.com/ "YappStars")
 
   * Defined and designed new solutions and software architectures.
 
