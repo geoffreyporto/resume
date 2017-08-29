@@ -42,7 +42,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Build relationships with customers and non-customers to garner feedback for the development of product offerings.
 
-* **Leader Software Architect for Innovation Labs at Naranya \(2013-2016\)**
+* **Leader Software Architect for Innovation Labs at Naranya.com \(2013-2016\)**
 
   * Lead a team of software developers for MVP projects.
 
