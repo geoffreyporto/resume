@@ -71,7 +71,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Working in the initial phase for discovery our business model canvas \(Design Thinking\).
 
-  * Launched the web portal [https://www.lean-101.com](https://www.lean-101.com "Portal web de Lean-101")
+  * Launched the web portal. See here: [https://www.lean-101.com](https://www.lean-101.com "Portal web de Lean-101")
 
   * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components.
 
