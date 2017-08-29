@@ -46,6 +46,8 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Lead a team of software developers for MVP projects.
 
+  * Launched a new platform called Claro Apps Android Marketplace for America Movil. Claro Apps has the first android market place of LatAm with payment via Cell phone balance \(non-credit card\) see here. [http://www.claroapps.com/](http://www.claroapps.com/)
+
   * Defined and designed new solutions and software architectures.
 
   * Support technical for solve problems of software development and solutions.
@@ -62,11 +64,14 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Co-Founder of Lean-101.com Startup \(2016-present\)**
 
-  * Currently we are working in the phase for discovery our business model canvas \(Design Thinking\).
-  * I'm Coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components
-  * I'm Coding a React-Native App prototype.
+  * Working in the phase for discovery our business model canvas \(Design Thinking\).
+  * Launched the web portal.
 
-  * I'm Coding a Core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql
+  * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components
+
+  * I'm coding a React-Native App prototype.
+
+  * I'm coding a Core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql
 
 **Skills**
 
