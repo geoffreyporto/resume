@@ -8,7 +8,7 @@ Mobile: \(52\) 81 14216460
 
 **Objective**
 
-I'm a professional passionate about applying technologies that make a real impact in the life many people.
+I'm a professional passionate about applying technologies that make a real impact in the life of many people.
 
 **Qualifications**
 
