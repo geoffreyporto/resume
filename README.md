@@ -13,6 +13,8 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Qualifications**
 
+* 5+ years of experience working with software development.
+
 * 2 years of experience working in Java and Javascript.
 
 * 2 years of experience leading software development projects.
