@@ -108,9 +108,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Education**
 
-* B.Eng. degree in Industrial and Systems Engineering
+* B.Eng. degree in Industrial and Systems Engineering \(2013-2016\)
 
-* Data Processing Technology/Technician
+* Data Processing Technology/Technician \(1993-1996\)
 
 
 
