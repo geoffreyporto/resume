@@ -55,9 +55,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Launched a new platform called Yappstars that connect the fan with their celebrity. see here: [http://yappstars.com/](http://yappstars.com/ "YappStars")
 
-  * Defined and designed new solutions and software architectures.
+  * Defined and designed new solutions and software architectures for internal systems.
 
-  * Support technical for solve problems of software development and solutions.
+  * Support technical for solve problems of software development.
 
   * Builds proof-of-concepts for adopt new technologies of Recommendation Engine with prediction.io.
 
