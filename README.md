@@ -62,7 +62,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Mentor technological software development in several startups: Yappstars.com, Naranyamarket.com, Ligamania.com and others startups
 
-* **Co-Founder of Lean-101.com Startup \(2016-present\)**
+* **Co-Founder at Lean-101.com Startup \(2016-present\)**
 
   * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality.
 
