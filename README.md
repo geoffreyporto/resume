@@ -22,7 +22,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Profesional Experience**
 
-* **Software Architect Manager at Banregio Bank \(2016-Present\)**
+* **Software Architect Manager at Banregio.com \(2016-Present\)**
 
   * Lead a team of software architects experts in financial services systems.
 
