@@ -12,9 +12,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Qualifications**
 
-* 2+ years of experience working in Java and Javascript.
+* 2 years of experience working in Java and Javascript.
 
-* 2+ years of experience leading software development projects.
+* 2 years of experience leading software development projects.
 
 * 2 years of experience working in Cloud Computing with Amazon AWS and Heroku.
 
