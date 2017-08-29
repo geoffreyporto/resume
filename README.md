@@ -64,7 +64,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Co-Founder of Lean-101.com Startup \(2016-present\)**
 
-  * Working in the phase for discovery our business model canvas \(Design Thinking\).
+  * Working in the initial phase for discovery our business model canvas \(Design Thinking\).
   * Launched the web portal.
 
   * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components
