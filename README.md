@@ -25,7 +25,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Blockchain Hyperledger Platform \(IBM Certified\)
 
-  * Google TensorFlow and Apache Spark ML for AI \(Machine/Deep Learning\)
+  * Google TensorFlow and Apache Spark ML for A.I \(Machine/Deep Learning\)
 
   * Cloud Native Microservices Applications with Angular, React, GoLang and Nodejs for Distributed Applications.
 
