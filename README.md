@@ -33,13 +33,13 @@ I'm a professional passionate about applying technologies that make a real impac
 
   **Lastest Certifications**
 
-  * [Data Science Foundations - Level 1](https://www.linkedin.com/in/geoffrey-porto-3463741a/edit/certification/99950829/)
+  * [Data Science Foundations - Level 1](https://www.linkedin.com/in/geoffrey-porto-3463741a/edit/certification/99950829/)  
     Certification DateMay 2017 – Present - License: d63306f7
 
-    [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png "IBM")](https://www.linkedin.com/company/1009/)
+    [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png "IBM")](https://www.linkedin.com/company/1009/)  
     [See this certificate - Level 1See certificate](https://www.youracclaim.com/badges/d63306f7-dcf2-4102-8bbf-e735e21431a8)
 
-  * [IBM Blockchain for Developers](https://www.linkedin.com/in/geoffrey-porto-3463741a/edit/certification/1974138520/)
+  * [IBM Blockchain for Developers](https://www.linkedin.com/in/geoffrey-porto-3463741a/edit/certification/1974138520/)  
     Certification DateApr 2017 – Present - License: ltu56179\_20170416[  
     ![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png)](#)  
     [See this certificate](https://www.youracclaim.com/badges/a2210117-9f44-4c4f-81f0-2577ef22f8b7/public_url)
@@ -48,11 +48,8 @@ I'm a professional passionate about applying technologies that make a real impac
 
     Certification DateApr 2017 – Present - License: UC-VSYAKMC6
 
-    [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAhAAAAAJDdhOTcwMmYzLTE4N2ItNDc0Ny1iMDc3LWM3MmIzNTI3ZjFkNg.png "Udemy")](https://www.linkedin.com/company/822535/)
-
+    [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAhAAAAAJDdhOTcwMmYzLTE4N2ItNDc0Ny1iMDc3LWM3MmIzNTI3ZjFkNg.png "Udemy")](https://www.linkedin.com/company/822535/)  
     [See this certificate](https://www.udemy.com/certificate/UC-VSYAKMC6/)
-
-
 
 **Profesional Experience**
 
