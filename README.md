@@ -31,6 +31,8 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * DevOps Deployment Applications with PaaS Openshit \(Jenkins, Docker, Kubernetes and Istio.io\) for Distributed Applications.
 
+  * Aligning technological solutions to the banking regulations of the CNBV and Association of Banks of Mexico.
+
   **Lastest Certifications**
 
   * **Data Science Foundations - Level 1**  
@@ -76,6 +78,8 @@ I'm a professional passionate about applying technologies that make a real impac
   * Build relationships with customers and non-customers to garner feedback for the development of product offerings.
 
   * Research, experiments, proof of concept and coding TensorFlow/Python/Spark Algorithms \(AI\) and Blockchain Hyperledger's Chaincode.
+
+  * Aligning technological solutions to the banking regulations of the CNBV and Association of Banks of Mexico.
 
 * **Leader Software Architect for Innovation Labs at Naranya.com \(2013-2016\)**
 
