@@ -37,7 +37,7 @@ I'm a professional passionate about applying technologies that make a real impac
     Certification DateMay 2017 – Present - License: d63306f7
 
     [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png "IBM")](https://www.linkedin.com/company/1009/)  
-    [See this certificate - Level 1See certificate](https://www.youracclaim.com/badges/d63306f7-dcf2-4102-8bbf-e735e21431a8)
+    [See this certificate - Level 1](https://www.youracclaim.com/badges/d63306f7-dcf2-4102-8bbf-e735e21431a8)
 
   * [IBM Blockchain for Developers](https://www.linkedin.com/in/geoffrey-porto-3463741a/edit/certification/1974138520/)  
     Certification DateApr 2017 – Present - License: ltu56179\_20170416[  
