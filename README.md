@@ -75,7 +75,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Build relationships with customers and non-customers to garner feedback for the development of product offerings.
 
-  * Research, experiments and code TensorFlow/Python/Spark Algorithms \(AI\) and Blockchain Hyperledger's Chaincode.
+  * Research, experiments, proof of concept and coding TensorFlow/Python/Spark Algorithms \(AI\) and Blockchain Hyperledger's Chaincode.
 
 * **Leader Software Architect for Innovation Labs at Naranya.com \(2013-2016\)**
 
