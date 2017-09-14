@@ -160,11 +160,5 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * Student of Artificial Intelligence Nanodegree at Udacity \(2017-2018\). see here: [https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889 "Artificial Intelligence Nanodegree")
 
-
-
-source: https://github.com/geoffreyporto/resume
-
-
-
-
+source file: [https://github.com/geoffreyporto/resume](https://github.com/geoffreyporto/resume)
 
