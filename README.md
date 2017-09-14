@@ -1,7 +1,7 @@
 # Geoffrey Porto's Resume
 
 Geoffrey Porto  
-Bonifacio Salinas Leal, 64950, Monterrey, Nuevo León, México  
+Bonifacio Salinas Leal, 64950,Monterrey, Nuevo León, México  
 E-mail:geoffreyporto@gmail.com  
 Mobile: \(52\) 81 14216460  
 Blog:[https://medium.com/@geoffreyporto](https://medium.com/@geoffreyporto)  
