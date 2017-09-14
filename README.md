@@ -3,7 +3,7 @@
 Geoffrey Porto  
 Monterrey, Nuevo León, México  
 E-mail:geoffreyporto@gmail.com  
-Mobile: \(52\) 81 14216460  
+Mobile: \(52\) 81 XXXX6460  
 Blog:[https://medium.com/@geoffreyporto](https://medium.com/@geoffreyporto)  
 Linkedin: [https://www.linkedin.com/in/geoffrey-porto-3463741a/](https://www.linkedin.com/in/geoffrey-porto-3463741a/ "Linkedin personal account")
 
