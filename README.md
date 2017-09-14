@@ -31,7 +31,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * DevOps Deployment Applications with PaaS Openshit \(Jenkins, Docker, Kubernetes and Istio.io\) for Distributed Applications.
 
-  * Aligning technological solutions to the banking regulations of the CNBV and Association of Banks of Mexico.
+  * Aligning technological solutions to the banking regulations of the National Securities Commission \(CNBV\) and Association of Banks of Mexico \(ABM\).
 
   **Lastest Certifications**
 
