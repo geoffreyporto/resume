@@ -23,11 +23,11 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * &lt;1 year exploring Crypto Currencies, A.I \(Deep/Machine Learning\) and Distributed Systems for Financials Services:
 
-  * Blockchain Hyperledger Platform \(IBM Certified\)
+  * Blockchain Hyperledger Platform \(IBM Certified\) (GoLang)
 
-  * Google TensorFlow and Apache Spark ML for A.I \(Machine/Deep Learning\)
+  * Google TensorFlow and Apache Spark ML for A.I \(Machine/Deep Learning\). (Python)
 
-  * Cloud Native Microservices Applications with Angular, React, GoLang and Nodejs for Distributed Applications.
+  * Cloud Native Microservices Applications for Distributed Applications. (React, Python, Nodejs and GoLang )
 
   * DevOps Deployment Applications with PaaS Openshit \(Jenkins, Docker, Kubernetes and Istio.io\) for Distributed Applications.
 
