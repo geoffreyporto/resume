@@ -31,6 +31,10 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * DevOps Deployment Applications with PaaS Openshit \(Jenkins, Docker, Kubernetes and Istio.io\) for Distributed Applications.
 
+  * Ordbms, NoSql and Blockchain Databases (MariaDB, Postgresql, MongoDB, Redis and BigchaingDB)
+  
+  * IaaS and Paas Cloud Technologies (Heroku, Amazon AWS and Google Cloud Platform)
+  
   * Aligning technological solutions to the banking regulations of the National Securities Commission \(CNBV\) and Association of Banks of Mexico \(ABM\).
 
   **Lastest Certifications**
