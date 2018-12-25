@@ -33,8 +33,6 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Ordbms, NoSql and Blockchain Databases (MariaDB, Postgresql, MongoDB, Redis and BigchaingDB)
   
-  * 
-  
   * Aligning technological solutions to the banking regulations of the National Securities Commission \(CNBV\) and Association of Banks of Mexico \(ABM\).
 
   **Lastest Certifications**
