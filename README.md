@@ -15,11 +15,11 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * 15+ years of experience working with software development.
 
-* 5 years of experience working in Java 7/8 and Javascript.
+* 8 years of experience working in Java 7/8, RubyOnRails and HTML/Javascript.
 
 * 2 years of experience leading software development projects.
 
-* 2 years of experience working in Cloud Computing with Amazon AWS and Heroku.
+* 2 years of experience working with IaaS and Paas Cloud technologies (Heroku, Amazon AWS and Google Cloud Platform).
 
 * &lt;1 year exploring Crypto Currencies, A.I \(Deep/Machine Learning\) and Distributed Systems for Financials Services:
 
@@ -33,7 +33,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Ordbms, NoSql and Blockchain Databases (MariaDB, Postgresql, MongoDB, Redis and BigchaingDB)
   
-  * IaaS and Paas Cloud Technologies (Heroku, Amazon AWS and Google Cloud Platform)
+  * 
   
   * Aligning technological solutions to the banking regulations of the National Securities Commission \(CNBV\) and Association of Banks of Mexico \(ABM\).
 
