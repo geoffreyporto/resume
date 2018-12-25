@@ -48,9 +48,7 @@ I'm a professional passionate about applying technologies that make a real impac
     [See this certificate](https://www.youracclaim.com/badges/a2210117-9f44-4c4f-81f0-2577ef22f8b7/public_url)
 
   * **Microservices Interview Questions Preparation Couse**
-
     Certification DateApr 2017 – Present - License: UC-VSYAKMC6
-
     [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAhAAAAAJDdhOTcwMmYzLTE4N2ItNDc0Ny1iMDc3LWM3MmIzNTI3ZjFkNg.png "Udemy")](https://www.linkedin.com/company/822535/)  
     [See this certificate](https://www.udemy.com/certificate/UC-VSYAKMC6/)
 
