@@ -13,7 +13,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Qualifications**
 
-* 15+ years of experience working with software development.
+* 20+ years of experience working with software development.
 
 * 8 years of experience working in Java 7/8, RubyOnRails and HTML/Javascript.
 
@@ -54,7 +54,7 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Profesional Experience**
 
-* **Software Architect Manager at Banregio.com \(2016-Present\)**
+* **Software Architect Manager at Banregio.com \(2018-Present\)**
 
   * Lead a team of software architects experts in financial services systems.
 
@@ -104,17 +104,16 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Co-Founder at Lean-101 Startup \(2016-present\)**
 
-  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality.
-
   * Working in the initial phase for discovery our business model canvas \(Design Thinking\).
 
   * Launched the web portal. See here: [https://www.lean-101.com](https://www.lean-101.com "Portal web de Lean-101")
 
-  * I'm coding a web app front-end for the platform administrador using Google Angular 4\(Typscript\)/React web components.
-
-  * I'm coding a React-Native App prototype.
+  * I'm coding a web app front-end for the platform administrador using React web components.
 
   * I'm coding a core Back-End Platform based in Microservices and Event-Driven Architecture \(CQRS/Event Sourcing\) with GoLang, Kafka, OpenShift Origin PaaS \(Google Kubernetes\), Istio.io, NGINX/netty, Cassandra, Redis and Postgresql
+
+  * We are building a marketplace of Android/IOS Apps for supporting our friends engineers in their lean manufacturing process and measurement quality.
+
 
 **Skills**
 
@@ -127,20 +126,20 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * **Programming Languages and Web Frameworks**
 
-  * Java, Java Spring, Android
   * GoLang
-  * JavaScript, Angular, React/React-Native
+  * Python
+  * JavaScript, React
   * Nodejs
 
 * **Software Engnieering**
 
   * Design, Architecture and Application Development Web: Microservices and Event-Driven Applications Architecture.
 
-  * Beginner in Blockchain: Hyperledger Platform.
+  * Beginner in DLT technologies (Blockchain and IOTA): Hyperledger Platform and IOTA
 
   * Beginner in Machine/Deep Learning: R, Spark and TensorFlow.
 
-  * PaaS Deployment Applications: Heroku and Amazon AWS.
+  * PaaS Deployment Applications: Heroku, Google Cloud Platform, and Amazon AWS.
 
   * noSQL Databases:  Cassandra, Neo4j, MongoDB and Redis.
 
