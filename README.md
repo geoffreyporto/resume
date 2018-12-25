@@ -152,11 +152,11 @@ I'm a professional passionate about applying technologies that make a real impac
 
 **Education**
 
-* B.Eng. degree in Industrial and Systems Engineering \(2013-2016\)
+* B.Eng. degree in Industrial and Systems Engineering
 
-* Data Processing Technology/Technician \(1993-1996\)
+* Data Processing Technology/Technician
 
-* Student of Artificial Intelligence Nanodegree at Udacity \(2017-2018\). see here: [https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889 "Artificial Intelligence Nanodegree")
+* Artificial Intelligence Nanodegree at Udacity \(In process\). see here: [https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889 "Artificial Intelligence Nanodegree")
 
 source file: [https://github.com/geoffreyporto/resume](https://github.com/geoffreyporto/resume)
 
