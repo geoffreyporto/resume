@@ -39,7 +39,6 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * **Data Science Foundations - Level 1**  
     Certification DateMay 2017 – Present - License: d63306f7
-
     [![](https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAf_AAAAJGYzOTZiMmE1LTJmYzctNDVkMC1hZTkzLTE2NzNmNTVhNTE2YQ.png "IBM")](https://www.linkedin.com/company/1009/)  
     [See this certificate - Level 1](https://www.youracclaim.com/badges/d63306f7-dcf2-4102-8bbf-e735e21431a8)
 
