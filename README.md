@@ -15,11 +15,13 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * 20+ years of experience working with software development.
 
-* 8 years of experience working in Java 7/8, RubyOnRails and HTML/Javascript.
+* 2 years of experience leading projects in software development.
 
-* 2 years of experience leading software development projects.
+* 1 year of experience working in Python, Rust and Julia.
 
 * 2 years of experience working with IaaS and Paas Cloud technologies (Heroku, Amazon AWS and Google Cloud Platform).
+
+* 8 years of experience working in Java, RubyOnRails and HTML/Javascript.
 
 * &lt;1 year exploring Crypto Currencies, A.I \(Deep/Machine Learning\) and Distributed Systems for Financials Services:
 
@@ -123,13 +125,16 @@ I'm a professional passionate about applying technologies that make a real impac
   * Calculus
   * Inferencial/Probability
   * Linear Regression/Binary Logistic Regression
+  * Boosting, SVM
 
 * **Programming Languages and Web Frameworks**
 
-  * GoLang
+  * Rust
   * Python
-  * JavaScript, React
-  * Nodejs
+  * Julia
+  * HTLM, JavaScript, Vuejs, React
+  * FastAPI
+  * Actix
 
 * **Software Engnieering**
 
@@ -137,13 +142,15 @@ I'm a professional passionate about applying technologies that make a real impac
 
   * Beginner in DLT technologies (Blockchain and IOTA): Hyperledger Platform and IOTA
 
-  * Beginner in Machine/Deep Learning: R, Spark and TensorFlow.
+  * Beginner in Machine/Deep Learning: Tensorflow, Keras, R, Julia, Pytorch, Spacy, Huggingface, NTLK.
 
   * PaaS Deployment Applications: Heroku, Google Cloud Platform, and Amazon AWS.
 
   * noSQL Databases:  Cassandra, Neo4j, MongoDB and Redis.
+  
+  * SQL Databases:  Postgreql, Mysql.
 
-  * Operating Systems: MacOSX and Linux-based systems
+  * Operating Systems: Openbsd, MacOSX and Linux-based systems
 
 * **Spoken Languages**
 
@@ -154,9 +161,9 @@ I'm a professional passionate about applying technologies that make a real impac
 
 * B.Eng. degree in Industrial and Systems Engineering
 
-* Data Processing Technology/Technician
+* Master in Artificial Intelligence at UNIR Mexico
 
-* Artificial Intelligence Nanodegree at Udacity \(In process\). see here: [https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889 "Artificial Intelligence Nanodegree")
+* Master in Smart Systems at UNIR Spain
 
 source file: [https://github.com/geoffreyporto/resume](https://github.com/geoffreyporto/resume)
 
